@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.sskm.TestClass" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-04-07T20:13:34" hostname="Deploy" time="12.868">
+  <properties/>
+  <testcase name="buyingNewProductTest" classname="ru.sskm.TestClass" time="12.868"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38) on port 4042
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+Apr 07, 2019 11:13:37 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+</testsuite>
